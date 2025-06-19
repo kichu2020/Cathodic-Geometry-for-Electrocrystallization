@@ -1,5 +1,0 @@
-print("hi")
-print("f")
-print("f")
-print("hifew")
-print("hifew")
